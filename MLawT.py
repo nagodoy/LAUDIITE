@@ -1,3 +1,6 @@
+#28.04.2023
+#https://github.com/stokome/DiseaseDiagnosis-ML-App
+
 import pickle
 import numpy as np
 import streamlit as st
