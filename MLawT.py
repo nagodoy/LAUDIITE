@@ -35,3 +35,4 @@ with col2:
     
 st.info("Nagivate the sidebar on the left to visit different diseases and its diagnosis. This is just a personal project so I would suggest not to rely on it")
 st.markdown("Using this app is simple. Just answer a few questions about your health history, symptoms, and lifestyle habits, and we'll provide you with your potential health concerns")
+#!streamlit run MLawT.py --server.port=8085
